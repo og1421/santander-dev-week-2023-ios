@@ -23,6 +23,7 @@ struct HomeView: View {
             case .loaded:
                 ScrollView(showsIndicators: true, content: {
                     AccountView(viewModel: viewModel.accountViewModel)
+                    BalanceView(viewModel: viewModel.balanceViewModel)
                 })
                 .background(.white)
                 .toolbar {
