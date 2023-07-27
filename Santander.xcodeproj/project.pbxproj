@@ -37,6 +37,7 @@
 		85E4F76C2A71D77A00580AB4 /* BalanceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85E4F76B2A71D77A00580AB4 /* BalanceView.swift */; };
 		85F887002A71E2B000374D77 /* FeatureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85F886FF2A71E2AF00374D77 /* FeatureView.swift */; };
 		85F887022A71E6A200374D77 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85F887012A71E6A200374D77 /* CardView.swift */; };
+		85F887042A71EA9900374D77 /* NewsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85F887032A71EA9900374D77 /* NewsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -69,6 +70,7 @@
 		85E4F76B2A71D77A00580AB4 /* BalanceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BalanceView.swift; sourceTree = "<group>"; };
 		85F886FF2A71E2AF00374D77 /* FeatureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeatureView.swift; sourceTree = "<group>"; };
 		85F887012A71E6A200374D77 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		85F887032A71EA9900374D77 /* NewsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +116,7 @@
 				85E4F76B2A71D77A00580AB4 /* BalanceView.swift */,
 				85F886FF2A71E2AF00374D77 /* FeatureView.swift */,
 				85F887012A71E6A200374D77 /* CardView.swift */,
+				85F887032A71EA9900374D77 /* NewsView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -295,6 +298,7 @@
 				6D593F5E2A6ED1FE00888F01 /* BalanceViewModel.swift in Sources */,
 				6DFA6D8E2A62269A008E70DE /* Home.swift in Sources */,
 				6DFA6D7C2A62191E008E70DE /* SantanderApp.swift in Sources */,
+				85F887042A71EA9900374D77 /* NewsView.swift in Sources */,
 				85F887022A71E6A200374D77 /* CardView.swift in Sources */,
 				6D593F602A6ED48800888F01 /* FeatureViewModel.swift in Sources */,
 			);

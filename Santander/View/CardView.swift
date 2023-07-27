@@ -12,7 +12,7 @@ struct CardView: View {
     @StateObject var viewModel = CardViewModel()
     
     @State private var cardClosed = true
-    @State private var isRotating = 180.00
+    @State private var isRotating = 360.00
     
     var body: some View {
         Rectangle()
